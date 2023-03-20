@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://netease-api.itechfans.com/:match*"
+      "destination": "https://netease-cloud-music-api-eight-brown-83.vercel.app/:match*"
     }
   ]
 }
